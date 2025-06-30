@@ -25,9 +25,9 @@ A simple frontend **Blog Manager** app that allows users to view, add, edit, and
 
 ## 🛠 Technologies Used
 
-- HTML5  
-- CSS  
-- JavaScript  
+- HTML for markup 
+- CSS for styling
+- JavaScript for interactivity
 - [JSON Server](https://github.com/typicode/json-server)
 
 ---
@@ -50,9 +50,7 @@ project-folder/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Ivy-chemutai/Blog-Post-Manager.git
-cd blog-manager
-```
+git clone git@github.com:Ahakim-xi/blog-Manager.git
 
 ### 2. Install and Start JSON Server
 
@@ -99,11 +97,5 @@ The Blog Manager App allows you to:
 ## 👤 Author
 
 **Abdihakim Ali**
-
----
-
-## 📃 License
-
-This project is for educational purposes only.
 
 ---
